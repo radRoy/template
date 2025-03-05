@@ -10,3 +10,10 @@ So, underscore `_` good:
 
 ...and hyphen (minus, dash) `-` bad:  
 <s>**```github.com/user/template-repo```**</s>
+
+## GitHub flavoured Markdown editing notes
+
+To cite / link to a file within a GitHub repo (e.g., the one belonging to this README.md), add a few text fragments to the repository's url:
+```
+TBD
+```
