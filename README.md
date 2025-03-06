@@ -20,5 +20,6 @@ TBD
 
 To embed an image:
 ```
-![Boids swarming about (presentation title slide) 1](https://github.com/radRoy/demo-boids/blob/master/Boids_pdf_title_screen.png)
+![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)
 ```
+![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)
