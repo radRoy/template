@@ -9,21 +9,28 @@ So, underscore `_` good:
 **```github.com/user/template_repo```**
 
 ...and hyphen (minus, dash) `-` bad:  
-<s>**```github.com/user/template-repo```**</s>
+```github.com/user/template-repo```
 
 ## GitHub flavoured Markdown editing notes
 
-To cite / link to a file within a GitHub repo (e.g., the one belonging to this README.md), add a few text fragments to the repository's url:
-```
-[README] - Where the link will be shown  
-[README]: https://github.com/radRoy/template/blob/master/README.md - assigning an url to the link named 'README' (hidden below in reading mode)
-```
-[README] - Where the link will be shown  
-[README]: https://github.com/radRoy/template/blob/master/README.md  
- - assigning an url to the link named 'README' (hidden in reading mode)
+A few hints on adding links and embedding images on github (code chunk content is copied below the chunk, look at it on github.com to see how it should look like).
 
-To embed an image:
+### Citing files with hyperlinks:
 ```
-![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)
+[README] - where the link will be shown
+
+[README]: https://github.com/radRoy/template/blob/master/README.md
+hidden in reading mode, requires an empty line, or another link assignment, above
 ```
-![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)
+[README] - where the link will be shown
+
+[README]: https://github.com/radRoy/template/blob/master/README.md
+hidden in reading mode, requires an empty line, or another link assignment, above
+
+### Embedding an image:
+```
+![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)  
+blobs image caption
+```
+![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)  
+blobs image caption
