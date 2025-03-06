@@ -19,7 +19,8 @@ To cite / link to a file within a GitHub repo (e.g., the one belonging to this R
 [README]: https://github.com/radRoy/template/blob/master/README.md - assigning an url to the link named 'README' (hidden below in reading mode)
 ```
 [README] - Where the link will be shown  
-[README]: https://github.com/radRoy/template/blob/master/README.md - assigning an url to the link named 'README' (hidden in reading mode)
+[README]: https://github.com/radRoy/template/blob/master/README.md  
+ - assigning an url to the link named 'README' (hidden in reading mode)
 
 To embed an image:
 ```
