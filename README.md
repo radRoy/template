@@ -17,3 +17,8 @@ To cite / link to a file within a GitHub repo (e.g., the one belonging to this R
 ```
 TBD
 ```
+
+To embed an image:
+```
+![Boids swarming about (presentation title slide) 1](https://github.com/radRoy/demo-boids/blob/master/Boids_pdf_title_screen.png)
+```
