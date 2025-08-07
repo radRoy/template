@@ -1,8 +1,6 @@
 # template
 My template repo including some basic bash scripts for git handling.
 
-*Write the README of this git repo here, above this line.*
-
 --- --- --- --- --- --- --- --- --- ---
 ## `git` stuff
 
@@ -23,6 +21,12 @@ I recommend running these commands with your info when installing git on a new m
 git config --global user.name "User Name"
 git config --global user.email user@email.com
 git config --global init.defaultbranch "master"
+```
+
+You can get info on the current configuration state (`.git/config` file):
+```
+git config get user.name
+git config get user.email
 ```
 
 ### GitHub flavoured Markdown editing notes
