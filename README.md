@@ -16,6 +16,15 @@ So, underscore `_` good:
 ...and hyphen (minus, dash) `-` bad:  
 ```github.com/user/template-repo```
 
+### `git config` stuff
+
+I recommend running these commands with your info when installing git on a new machine:
+```
+git config --global user.name "User Name"
+git config --global user.email user@email.com
+git config --global init.defaultbranch "master"
+```
+
 ### GitHub flavoured Markdown editing notes
 
 Three hyphens `---` is enough to add a horizontal line separator in the GitHub Markdown reading view (as used above). With more hyphens, regardless of spaces between them, GitHub still displays just one horizontal line.
