@@ -54,3 +54,18 @@ blobs image caption
 ```
 ![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)  
 blobs image caption
+
+#### Relative links inside a git repository
+
+Be advised, this is probably specific to GitHub. Here is a link on [GitHub relative link in Markdown file](https://stackoverflow.com/a/7658676).
+
+As an example, instead of this absolute weblink:
+```markdown
+[GitHub Blog Post about relative links markup (markdown)](https://github.com/radRoy/template/blob/master/resources/Relative_links_in_markup_files%20-%20The_GitHub_Blog.pdf)
+```
+
+... one can use relative links that also work in forked GitHub repositories with another web source for a given file:
+```markdown
+[GitHub Blog Post about relative links markup (markdown)](resources/Relative_links_in_markup_files%20-%20The_GitHub_Blog.pdf)
+```
+... and should work like this: [GitHub Blog Post about relative links markup (markdown)](resources/Relative_links_in_markup_files%20-%20The_GitHub_Blog.pdf). The `%20` in the markdown souce text is used for a space ` ` in the file path.
