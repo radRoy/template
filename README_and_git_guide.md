@@ -68,4 +68,4 @@ As an example, instead of this absolute weblink:
 ```markdown
 [GitHub Blog Post about relative links markup (markdown)](resources/Relative_links_in_markup_files%20-%20The_GitHub_Blog.pdf)
 ```
-... and should work like this: [GitHub Blog Post about relative links markup (markdown)](resources/Relative_links_in_markup_files%20-%20The_GitHub_Blog.pdf). The `%20` in the markdown souce text is used for a space ` ` in the file path.
+... and should work like this: [GitHub Blog Post about relative links markup (markdown)](resources/Relative_links_in_markup_files%20-%20The_GitHub_Blog.pdf). The `%20` in the markdown souce text is used for a space ` ` in the file path. The original blog post can be found here: [Relative links in markup files](https://github.blog/news-insights/product-news/relative-links-in-markup-files/).
