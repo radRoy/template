@@ -5,3 +5,12 @@
 *~$*.doc
 *~$*.pptx
 *~$*.ppt
+
+# ignore everything in data/, except the README.md
+data/*
+!README.md
+
+data_raw/*
+!README.md
+
+file_to_ignore.txt
