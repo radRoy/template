@@ -49,10 +49,10 @@ hidden in reading mode, requires an empty line, or another link assignment, abov
 
 #### Embedding an image:
 ```
-![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)  
+![Fiji blobs](https://github.com/radRoy/template/blob/master/resources/blobs.png)  
 blobs image caption
 ```
-![Fiji blobs](https://github.com/radRoy/template/blob/master/blobs.png)  
+![Fiji blobs](https://github.com/radRoy/template/blob/master/resource/blobs.png)  
 blobs image caption
 
 #### Relative links inside a git repository
