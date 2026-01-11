@@ -6,11 +6,11 @@
 *~$*.pptx
 *~$*.ppt
 # do the same with open document type file endings
-*~$*.odt#
-*~$*.ods#
-*~$*.odp#
-*~$*.odg#
-*~$*.odf#
+*~*.odt
+*~*.ods
+*~*.odp
+*~*.odg
+*~*.odf
 
 # ignore everything in data/, except the README.md
 data/*
