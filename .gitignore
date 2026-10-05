@@ -20,6 +20,10 @@ data_raw/*
 !README.md
 # data_raw/!README.md  # this way does not work!
 
+
 # Once the `!` is left out, written files and folders are ignored, again
 # file_to_ignore.txt
 .idea
+*.idea
+.venv
+*.venv
